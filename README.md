@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Usage
 Clone the repository:
-git clone https://
+git clone https://https://github.com/svprferg/Face-Mask-Detection
 cd face-mask-detection
 
 2.Install the required Python packages:
